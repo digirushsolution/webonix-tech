@@ -1,0 +1,1175 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Inem - Digital Marketing Specialist Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Subscribe Form",
+            "screenshot": "screenshots\/metform-subscribe-form.jpg",
+            "source": "templates\/metform-subscribe-form.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/metform-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Off Canvas Content",
+            "screenshot": "screenshots\/block-off-canvas-content.jpg",
+            "source": "templates\/block-off-canvas-content.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/block-off-canvas-content\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Blog",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Question Form",
+            "screenshot": "screenshots\/metform-question-form.jpg",
+            "source": "templates\/metform-question-form.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/metform-question-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Project",
+            "screenshot": "screenshots\/detail-project.jpg",
+            "source": "templates\/detail-project.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/detail-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Projects",
+            "screenshot": "screenshots\/our-projects.jpg",
+            "source": "templates\/our-projects.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/our-projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Service",
+            "screenshot": "screenshots\/detail-service.jpg",
+            "source": "templates\/detail-service.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/detail-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Pricing",
+            "screenshot": "screenshots\/our-pricing.jpg",
+            "source": "templates\/our-pricing.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/our-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/elkit.wirastudio.co\/inem\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.19.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "working-on-digital-marketing-strategy.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/working-on-digital-marketing-strategy.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 116153,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/working-on-digital-marketing-strategy-ME9BJ3Y"
+        },
+        {
+            "filename": "marketing-business-people-and-meeting-in-office-startup-and-digital-marketing-company-for-teamwor.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/marketing-business-people-and-meeting-in-office-startup-and-digital-marketing-company-for-teamwor.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 159486,
+            "dimensions": [
+                2048,
+                1238
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marketing-business-people-and-meeting-in-office-st-MASSTWF"
+        },
+        {
+            "filename": "Abstract-background-with-blue-waves-2.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Abstract-background-with-blue-waves-2-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                }
+            ],
+            "filesize": 196791,
+            "dimensions": [
+                2000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/gradient-wave-line-background-CNUZHSF"
+        },
+        {
+            "filename": "marketing-specialist-using-tablet.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/marketing-specialist-using-tablet.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 183840,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marketing-specialist-using-tablet-CH3D2XE"
+        },
+        {
+            "filename": "Paper-12-1.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Paper-12-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 94452,
+            "dimensions": [
+                1344,
+                896
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/paper-textures-6944LVN"
+        },
+        {
+            "filename": "Logoipsum-4.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Logoipsum-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3110,
+            "dimensions": [
+                220,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logoipsum-3.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Logoipsum-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2283,
+            "dimensions": [
+                169,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logoipsum-2.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Logoipsum-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1757,
+            "dimensions": [
+                100,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logoipsum-1.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Logoipsum-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1670,
+            "dimensions": [
+                176,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logoipsum.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Logoipsum.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2903,
+            "dimensions": [
+                71,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "indoor-shot-of-male-marketing-expert-prepares-advertising-content-for-web-page.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/indoor-shot-of-male-marketing-expert-prepares-advertising-content-for-web-page-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 139017,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FTV99EZ"
+        },
+        {
+            "filename": "digital-marketing-planning-teamwork-and-strategy-business-meeting-in-the-office-collaboration-on-v.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/digital-marketing-planning-teamwork-and-strategy-business-meeting-in-the-office-collaboration-on-v.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 167721,
+            "dimensions": [
+                2048,
+                1265
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-planning-teamwork-and-strategy-b-FWDXS56"
+        },
+        {
+            "filename": "content-marketing-thinking-or-business-people-in-meeting-planning-a-creative-digital-startup-proje.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/content-marketing-thinking-or-business-people-in-meeting-planning-a-creative-digital-startup-proje.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 159523,
+            "dimensions": [
+                2048,
+                1303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/content-marketing-thinking-or-business-people-in-m-M47VXMT"
+        },
+        {
+            "filename": "sales-strategy-and-business-people-in-a-meeting-about-digital-marketing-vision-and-advertising-id.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/sales-strategy-and-business-people-in-a-meeting-about-digital-marketing-vision-and-advertising-id.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 221557,
+            "dimensions": [
+                2048,
+                1339
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sales-strategy-and-business-people-in-a-meeting-ab-YPH5NG7"
+        },
+        {
+            "filename": "asian-female-executive-using-digital-tablet-by-the-window-.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/asian-female-executive-using-digital-tablet-by-the-window-.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 184094,
+            "dimensions": [
+                2048,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-female-executive-using-digital-tablet-by-the-A8KELQU"
+        },
+        {
+            "filename": "person-studying-digital-marketing-online.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/person-studying-digital-marketing-online.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 137250,
+            "dimensions": [
+                2048,
+                1365
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/person-studying-digital-marketing-online-XAEJ38E"
+        },
+        {
+            "filename": "Calm-waves.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Calm-waves-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 177361,
+            "dimensions": [
+                1815,
+                1815
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/calm-waves-2M95JPK"
+        },
+        {
+            "filename": "woman-surfing-the-net-on-digital-tablet.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/woman-surfing-the-net-on-digital-tablet.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 100349,
+            "dimensions": [
+                1415,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-surfing-the-net-on-digital-tablet-PFQQESB"
+        },
+        {
+            "filename": "Gradient-wave-background.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Gradient-wave-background-800x497.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 241282,
+            "dimensions": [
+                2048,
+                1271
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/gradient-wave-background-TJ64866"
+        },
+        {
+            "filename": "beautiful-young-female-internet-marketing-specialist-looking-and-posing-at-the-photo-camera.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/beautiful-young-female-internet-marketing-specialist-looking-and-posing-at-the-photo-camera.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 213023,
+            "dimensions": [
+                1365,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-female-internet-marketing-speciali-DDDVCC4"
+        },
+        {
+            "filename": "woman-working-and-laptop-at-digital-marketing-company-eco-startup-and-work-with-technology-at-des.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/woman-working-and-laptop-at-digital-marketing-company-eco-startup-and-work-with-technology-at-des.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 141114,
+            "dimensions": [
+                1535,
+                2048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-and-laptop-at-digital-marketing-comp-A5Q4B4M"
+        },
+        {
+            "filename": "break-relax-or-happy-business-people-in-meeting-in-startup-or-group-project-in-a-digital-marketing.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/break-relax-or-happy-business-people-in-meeting-in-startup-or-group-project-in-a-digital-marketing-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 197795,
+            "dimensions": [
+                2048,
+                1366
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8QY72DM"
+        },
+        {
+            "filename": "project-management-digital-marketing-and-collaboration-team-or-business-people-with-laptop-notebo.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/project-management-digital-marketing-and-collaboration-team-or-business-people-with-laptop-notebo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 183093,
+            "dimensions": [
+                2048,
+                1409
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/project-management-digital-marketing-and-collabora-67L7R3U"
+        },
+        {
+            "filename": "Inem-Dark.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Inem-Dark.png",
+            "templates": [
+                {
+                    "source": "templates\/block-footer.json",
+                    "name": "Block - Footer"
+                },
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                }
+            ],
+            "filesize": 24000,
+            "dimensions": [
+                627,
+                258
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Inem-Light.png",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2024\/02\/Inem-Light.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                }
+            ],
+            "filesize": 25170,
+            "dimensions": [
+                627,
+                258
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-work-process-marketing-strategy-brainstorming-paperwork-and-digital-in-modern-office-.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/team-work-process-marketing-strategy-brainstorming-paperwork-and-digital-in-modern-office--800x468.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 141838,
+            "dimensions": [
+                2048,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SR6QFZA"
+        },
+        {
+            "filename": "marketing-financial-analyst-analysis-business-financial-report-on-digital-tablet-during-discussion-a.jpg",
+            "thumbnail_url": "https:\/\/elkit.wirastudio.co\/inem\/wp-content\/uploads\/sites\/45\/2023\/09\/marketing-financial-analyst-analysis-business-financial-report-on-digital-tablet-during-discussion-a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-project.json",
+                    "name": "Detail Project"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 129947,
+            "dimensions": [
+                2048,
+                1366
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marketing-financial-analyst-analysis-business-fina-EV2MKWE"
+        }
+    ]
+}
